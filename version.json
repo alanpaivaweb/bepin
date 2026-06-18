@@ -3,7 +3,7 @@
   "buildNumber": 3,
   "enabled": true,
   "mandatory": false,
-  "apkUrl": "https://github.com/alanpaivaweb/DEV-IA/releases/latest/download/bepin.apk",
+  "apkUrl": "https://github.com/alanpaivaweb/bepin/releases/latest/download/bepin.apk",
   "sha256": "885A9E2B1843EE1BABC2C92FBD71D24D7CA7482F1B5AC990E2A35D90FADA4767",
   "size": 122235474,
   "releaseNotes": [

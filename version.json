@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "buildNumber": 3,
+  "buildNumber": 4,
   "enabled": true,
   "mandatory": false,
   "apkUrl": "https://github.com/alanpaivaweb/bepin/releases/latest/download/bepin.apk",

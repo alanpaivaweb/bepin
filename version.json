@@ -4,7 +4,7 @@
   "enabled": true,
   "mandatory": false,
   "apkUrl": "https://github.com/alanpaivaweb/bepin/releases/latest/download/bepin.apk",
-  "sha256": "885A9E2B1843EE1BABC2C92FBD71D24D7CA7482F1B5AC990E2A35D90FADA4767",
+  "sha256": "e96ebd9fcc12dd9010177530322feea150e5e571e67a41fe7b5eb2ba754b7724",
   "size": 122235474,
   "releaseNotes": [
     "Sistema de atualização automática implementado",
